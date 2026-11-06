@@ -16,12 +16,7 @@ A terminal-based stock screener that pulls live data from Yahoo Finance (free, n
 - `pandas` — data handling
 - `tabulate` — pretty terminal tables
 
-## ⚙️ Setup
-```bash
-git clone https://github.com/your-username/cli-stock-screener.git
-cd cli-stock-screener
-pip install yfinance pandas tabulate
-```
+
 
 ## 🖥 Usage
 ```bash
